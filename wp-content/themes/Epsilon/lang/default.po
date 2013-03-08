@@ -1,0 +1,760 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: office\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-06 13:43-0800\n"
+"PO-Revision-Date: 2012-11-06 13:43-0800\n"
+"Last-Translator: AJ Clarke <wpexplorer@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17
+msgid ""
+"Unfortunately, the page you tried accessing could not be retrieved. Please "
+"visit the"
+msgstr ""
+
+#: ../404.php:17
+msgid "homepage"
+msgstr ""
+
+#: ../author.php:31
+msgid "Posts by"
+msgstr ""
+
+#: ../comments.php:18
+msgid "Leave a comment"
+msgstr ""
+
+#: ../comments.php:18 ../single.php:24
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:18 ../single.php:24
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:18
+msgid "Comments closed"
+msgstr ""
+
+#: ../comments.php:22 ../comments.php:34
+msgid "Comment Navigation"
+msgstr ""
+
+#: ../comments.php:23 ../comments.php:35
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:24 ../comments.php:36
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:56 ../admin/functions/functions.options.php:102
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:58
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:65
+msgid "Leave a reply"
+msgstr ""
+
+#: ../comments.php:67
+msgid "Log In To Comment"
+msgstr ""
+
+#: ../comments.php:71
+msgid "Cancel reply"
+msgstr ""
+
+#: ../comments.php:72
+msgid "Submit Comment"
+msgstr ""
+
+#: ../content-audio.php:87 ../content-gallery.php:76 ../content-image.php:33
+#: ../content-video.php:31 ../content.php:32
+msgid "Read More"
+msgstr ""
+
+#: ../content-link.php:33
+msgid "Visit Site"
+msgstr ""
+
+#: ../footer.php:37
+msgid "Copyright"
+msgstr ""
+
+#: ../functions.php:96
+msgid "Main"
+msgstr ""
+
+#: ../search.php:16
+msgid "Search Results For"
+msgstr ""
+
+#: ../search.php:32
+msgid "Sorry, no results where found"
+msgstr ""
+
+#: ../searchform.php:12
+msgid "Type and hit enter to search"
+msgstr ""
+
+#: ../single.php:24
+msgid "0 Comments"
+msgstr ""
+
+#: ../single.php:159
+msgid "View Full-Size"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:485
+msgid "Last Backup : "
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:545
+msgid "Upload"
+msgstr ""
+
+#: ../admin/front-end/options.php:42 ../admin/front-end/options.php:66
+msgid "Save All Changes"
+msgstr ""
+
+#: ../admin/front-end/options.php:67
+msgid "Options Reset"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:13
+#: ../templates/template-portfolio-filter.php:58
+msgid "All"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:53
+#: ../admin/functions/functions.options.php:149
+msgid "General"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:60
+msgid "Branding"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:64
+msgid "Main Logo Upload"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:65
+msgid ""
+"Upload your custom logo using the native media uploader, or define the URL "
+"directly"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:70
+msgid "Custom Login Logo"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:71
+msgid "Upload a custom logo for your Wordpress login screen."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:76
+msgid "Custom Login Logo Height"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:77
+msgid ""
+"Enter the height of your custom logo to override the default WordPress image "
+"height (example: 200px). Width, must not be changed."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:82
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:83
+msgid "Upload or past the URL for your custom favicon."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:92
+msgid "Header"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:96
+msgid "Phone Number"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:97
+msgid "Enter your phone number for use in the header area."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:103
+msgid "Enter your email for use in the header."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:112
+msgid "Contact Page"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:116
+msgid "Contact Page Google Map Address"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:117
+msgid "Enter an address for your contact page Google Map."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:122
+msgid "Contact Page Google Map Title"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:123
+msgid "Enter a title for your contact page Google Map."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:128
+msgid "Contact Page Google Map Height"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:129
+msgid "Enter a height in for your Google Map."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:134
+msgid "Contact Page Google Map Zoom"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:135
+msgid "Enter a zoom value for your Google Map. Default is 10"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:142
+msgid "Styling"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:153
+msgid "Disable The Responsive Layout"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:154
+msgid "Check this box to disable the responsive function."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:171
+#: ../admin/functions/functions.options.php:175
+msgid "Custom CSS"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:176
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:183
+msgid "Home"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:190
+msgid "Slider"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:194
+msgid "Disable The Homepage Slider"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:195
+msgid "Check this box to disable the homepage slider."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:210
+#: ../admin/functions/functions.options.php:267 ../functions/post_types.php:19
+#: ../functions/post_types.php:20 ../functions/widget_posts_thumbs.php:98
+msgid "Portfolio"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:214
+msgid "Disable The Homepage Portfolio Section"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:215
+msgid "Check this box to disable the homepage portfolio section."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:220
+msgid "Custom Homepage Portfolio Section Title"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:221
+#: ../admin/functions/functions.options.php:254
+msgid "Enter your title"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:226
+msgid "Portfolio Section Category"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:227
+msgid ""
+"If you do not want to show all the recent portfolio items, select a specific "
+"category below (select a parent category so the filter works, child "
+"categories will create the filter items)."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:233
+msgid "Portfolio Items Count"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:234
+msgid "How many portfolio items do you wish to show on the homepage?"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:243
+#: ../includes/home-testimonials.php:23
+msgid "Testimonials"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:247
+msgid "Disable The Homepage Testimonials"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:248
+msgid "Check this box to disable the homepage testimonials."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:253
+msgid "Custom Homepage Testimonials Section Title"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:270
+msgid "Portfolio Items Per Page"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:271
+msgid ""
+"How many portfolio items do you wish to show on your portfolio templates and "
+"archives?<br /><br /><strong>Important:</strong> If the slug of your "
+"portfolio page is set to \"portfolio\" it can create conflicts with "
+"WordPress and cause 404 errors on paginated pages."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:276
+msgid "Portfolio Entry Image Height"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:277
+msgid ""
+"Enter a custom height for your portfolio entry images.<br /><br />You can "
+"use 9999 to prevent any height cropping and create a masonry style portfolio "
+"grid. Images will keep their original proportions."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:282
+msgid "Portfolio Post Image Height"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:283
+msgid ""
+"Enter a custom height for your portfolio post images.<br /><br />You can use "
+"9999 to prevent any height cropping."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:288
+msgid "Disable Portfolio Related Items"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:289
+msgid ""
+"Check this box to disable the section that displays other portfolio items on "
+"single portfolio posts."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:296
+msgid "Blog"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:299
+msgid "Blog Style"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:300
+msgid "Select Your Blog Style."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:306
+msgid "Enable Author Bio Box On Blog Posts"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:307
+msgid "Check this box to enable the author bio section on single blog posts."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:316
+msgid "Social"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:322
+msgid "Enter your "
+msgstr ""
+
+#: ../admin/functions/functions.options.php:322
+msgid " url"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:322
+msgid "Include http:// at the front of the url."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:331
+msgid "Tracking"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:334
+msgid "Tracking Code (Header)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:335
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the header template of your theme."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:340
+msgid "Tracking Code (Footer)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:341
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:347
+msgid "Backup"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:350
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:354
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time.<br /><br />This is useful if you want to "
+"experiment on the options but would like to keep the old settings in case "
+"you need it back."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:357
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:361
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options."
+msgstr ""
+
+#: ../functions/editor_columns.php:20
+msgid "Category"
+msgstr ""
+
+#: ../functions/editor_columns.php:22
+msgid "Featured Image"
+msgstr ""
+
+#: ../functions/portfolio_meta.php:16
+msgid "Portfolio Settings"
+msgstr ""
+
+#: ../functions/portfolio_meta.php:22
+msgid "Style"
+msgstr ""
+
+#: ../functions/portfolio_meta.php:24
+msgid "Select the entry style for this post."
+msgstr ""
+
+#: ../functions/portfolio_meta.php:31
+msgid "Video URL"
+msgstr ""
+
+#: ../functions/portfolio_meta.php:32 ../functions/post_meta.php:45
+msgid ""
+"Enter in a video URL that is compatible with WordPress's built-in oEmbed "
+"feature."
+msgstr ""
+
+#: ../functions/portfolio_meta.php:32 ../functions/post_meta.php:45
+msgid "Learn More"
+msgstr ""
+
+#: ../functions/portfolio_meta.php:38
+msgid "Post Sub-Title"
+msgstr ""
+
+#: ../functions/portfolio_meta.php:39
+msgid "Enter your desired portfolio post sub-title."
+msgstr ""
+
+#: ../functions/portfolio_meta.php:45
+msgid "Client"
+msgstr ""
+
+#: ../functions/portfolio_meta.php:46
+msgid "Enter your client name."
+msgstr ""
+
+#: ../functions/portfolio_meta.php:52
+msgid "Date"
+msgstr ""
+
+#: ../functions/portfolio_meta.php:53
+msgid "Enter your date."
+msgstr ""
+
+#: ../functions/portfolio_meta.php:59
+msgid "URL"
+msgstr ""
+
+#: ../functions/portfolio_meta.php:60
+msgid "Enter your url. Don't forget the http:// at the front."
+msgstr ""
+
+#: ../functions/post_meta.php:16
+msgid "Post Settings"
+msgstr ""
+
+#: ../functions/post_meta.php:22
+msgid "Link Format URL"
+msgstr ""
+
+#: ../functions/post_meta.php:24
+msgid "Enter the url for your link format URL."
+msgstr ""
+
+#: ../functions/post_meta.php:29
+msgid "Audio MP3"
+msgstr ""
+
+#: ../functions/post_meta.php:31
+msgid "Enter the url for your mp3 audio file for your audio post format."
+msgstr ""
+
+#: ../functions/post_meta.php:36
+msgid "Audio OGG"
+msgstr ""
+
+#: ../functions/post_meta.php:38
+msgid ""
+"Enter the url for your ogg audio file for your audio post format. Required "
+"for Firefox."
+msgstr ""
+
+#: ../functions/post_meta.php:43
+msgid "Video Format Embed"
+msgstr ""
+
+#: ../functions/post_types.php:22
+msgid "Add New Portfolio Post"
+msgstr ""
+
+#: ../functions/post_types.php:23
+msgid "Edit Portfolio Post"
+msgstr ""
+
+#: ../functions/post_types.php:24
+msgid "New Portfolio Post"
+msgstr ""
+
+#: ../functions/post_types.php:25
+msgid "View Portfolio Post"
+msgstr ""
+
+#: ../functions/post_types.php:26
+msgid "Search Portfolio Posts"
+msgstr ""
+
+#: ../functions/post_types.php:27
+msgid "No Portfolio Posts found"
+msgstr ""
+
+#: ../functions/post_types.php:28
+msgid "No Portfolio Posts found in Trash"
+msgstr ""
+
+#: ../functions/scripts.php:71
+msgid "Menu"
+msgstr ""
+
+#: ../functions/taxonomies.php:17
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../functions/taxonomies.php:18
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../functions/taxonomies.php:19
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: ../functions/taxonomies.php:20
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: ../functions/taxonomies.php:21
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: ../functions/taxonomies.php:22
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: ../functions/taxonomies.php:23
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../functions/taxonomies.php:24
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../functions/taxonomies.php:25
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../functions/taxonomies.php:26
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: ../functions/taxonomies.php:27
+msgid "Choose from the most used portfolio categories"
+msgstr ""
+
+#: ../functions/widget_areas.php:14
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions/widget_areas.php:16
+msgid "Widgets in this area are used on the main sidebar region."
+msgstr ""
+
+#: ../functions/widget_areas.php:25
+msgid "Footer 1"
+msgstr ""
+
+#: ../functions/widget_areas.php:27
+msgid "Widgets in this area are used in the first footer column"
+msgstr ""
+
+#: ../functions/widget_areas.php:35
+msgid "Footer 2"
+msgstr ""
+
+#: ../functions/widget_areas.php:37
+msgid "Widgets in this area are used in the second footer column"
+msgstr ""
+
+#: ../functions/widget_areas.php:45
+msgid "Footer 3"
+msgstr ""
+
+#: ../functions/widget_areas.php:47
+msgid "Widgets in this area are used in the third footer column"
+msgstr ""
+
+#: ../functions/widget_posts_thumbs.php:15
+msgid "Recent Posts With Thumbnails"
+msgstr ""
+
+#: ../functions/widget_posts_thumbs.php:83
+msgid "Recent Posts"
+msgstr ""
+
+#: ../functions/widget_posts_thumbs.php:90 ../functions/widget_social.php:54
+msgid "Title:"
+msgstr ""
+
+#: ../functions/widget_posts_thumbs.php:95
+msgid "Select a post type:"
+msgstr ""
+
+#: ../functions/widget_posts_thumbs.php:97
+msgid "Post"
+msgstr ""
+
+#: ../functions/widget_posts_thumbs.php:103
+msgid "Number to Show:"
+msgstr ""
+
+#: ../functions/widget_posts_thumbs.php:107
+msgid "Offset (the number of posts to skip):"
+msgstr ""
+
+#: ../functions/widget_social.php:15
+msgid "Social Profiles"
+msgstr ""
+
+#: ../functions/widget_social.php:50
+msgid "Follow Us"
+msgstr ""
+
+#: ../functions/wpex_comments_output.php:22
+#, php-format
+msgid "<cite class=\"author\">%s</cite>"
+msgstr ""
+
+#: ../functions/wpex_comments_output.php:24
+msgid "Reply"
+msgstr ""
+
+#: ../includes/home-portfolio.php:39
+msgid "Featured Work"
+msgstr ""
+
+#: ../templates/template-sitemap.php:32
+msgid "Feeds"
+msgstr ""
+
+#: ../templates/template-sitemap.php:39
+msgid "Tags"
+msgstr ""
+
+#: ../templates/template-sitemap.php:53
+msgid "Archives by Month"
+msgstr ""
+
+#: ../templates/template-sitemap.php:61
+msgid "Blog Categories"
+msgstr ""
+
+#: ../templates/template-sitemap.php:80
+msgid " Portfolio Categories"
+msgstr ""
+
+#: ../templates/template-sitemap.php:103
+msgid "Pages"
+msgstr ""
